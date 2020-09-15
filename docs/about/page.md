@@ -25,7 +25,7 @@ Syntax highlighted code block
 [Link](url) and ![Image](src)
 ```
 
-The image is here ![Birds](https://github.com/hmnaik/hmnaik.github.io/edit/master/images/image.jpg)
+The image is here ![Birds](/images/bird_rainbow.jpg)
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
