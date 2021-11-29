@@ -16,8 +16,13 @@ My love for nature inspired me to get involved science outreach activities. I ha
 - Animals in Virtual Environment 
 
 ## SciArt Initiative  
-I have started working with 
+I have started working with multiple art institutes in Germany to promote the idea of using art as a medium to engage people in science.  
+
 ### Merz Akademie
+- Flying with storks 
+- Storytelling  
+- Flying with Stralings 
+- Rehsaping Nature 
 
 ### Schloss Solitude 
 [Magical Cohabitions](https://www.akademie-solitude.de/en/event/magical-cohabitations-live-online-event/)
