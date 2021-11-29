@@ -7,6 +7,8 @@ Nature, Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketc
 ### Professional life as engineer and a scientist 
 I am using my tech expertise to study wildlife. Currently, I am a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). I am working on project MELA (Mating Ecology of Leking Antelopes) which is support by [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/). 
 
+[previous work](/about/project)
+
 ### Science outreach : Art and Science
 I am trying to learn the art of story telling and explore the role of art in science communication. I am working with several art institutes in Germany.  
 
