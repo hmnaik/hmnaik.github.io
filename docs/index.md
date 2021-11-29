@@ -17,7 +17,7 @@ My latest projects involve [Merz Akademie](https://www.merz-akademie.de/en/) and
 [more](/about/outreach)
 
 ### Social media
-[Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber) [Instagram](https://www.instagram.com/walking_naik/?hl=en) [Medium](https://medium.com/@hemalnaik)  
+You can find my opinions @hmnaik on [Twitter](https://twitter.com/hmnaik). My [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber) channel is full or experimental media content and pictures of everyday life and sketches on [Instagram](https://www.instagram.com/walking_naik/?hl=en). I also write stories and esseays on [Medium](https://medium.com/@hemalnaik)  
 
 ### CV
 [download](/cv/Resume.pdf).
