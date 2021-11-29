@@ -1,9 +1,8 @@
-## Aim of life 
+## I want to be known as
+the guy who likes to take a nap below trees and look at the sky with no particular aim.
 
-I would like to be remembered as someone who loved to take a nap below a tree and looking at the sky.
-
-### Who am I? 
-I am an engineer and a scientist by profession. Personally, I am trying to learn the art of story telling and a science communication. My favorite mode of transportation is walking. I am always looking to have some free time and go for birding. If I can not find birds I see insects, trees and whatever else that is around. My love for Himalayas is something I have not measured but there is a lingering hope that I would do a project there and live there for a while. 
+### I am officially 
+an engineer and a scientist by profession. Personally, I am trying to learn the art of story telling and a science communication. My favorite mode of transportation is walking. I am always looking to have some free time and go for birding. If I can not find birds I see insects, trees and whatever else that is around. My love for Himalayas is something I have not measured but there is a lingering hope that I would do a project there and live there for a while. 
 
 ### What do I do for living? 
 I am working at [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/) as a postdoctoral researcher. I am currently hosted by the [Visual Computing Group](https://www.cgmi.uni-konstanz.de/) at the University of Konstanz. Additionally, I am a guest researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
