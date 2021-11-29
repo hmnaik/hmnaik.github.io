@@ -1,5 +1,6 @@
 ## I want to be known as
 the guy who likes to take a nap below trees and look at the sky with no particular aim.
+[][/images/Hemal.jpg]
 
 ### I am officially 
 an engineer and a scientist by profession. Personally, I am trying to learn the art of story telling and a science communication. My favorite mode of transportation is walking. I am always looking to have some free time and go for birding. If I can not find birds I see insects, trees and whatever else that is around. My love for Himalayas is something I have not measured but there is a lingering hope that I would do a project there and live there for a while. 
