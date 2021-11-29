@@ -1,6 +1,6 @@
 ## I want to be known as
 the guy who likes to take a nap below trees and look at the sky with no particular aim.
-![me][/images/Hemal.jpg]
+![me](/images/Hemal.jpg)
 
 ### I am interested in
 Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketching  
@@ -11,7 +11,7 @@ an engineer and a scientist by profession. Personally, I am trying to learn the 
 ### What do I do for living? 
 I am working at [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/) as a postdoctoral researcher. I am currently hosted by the [Visual Computing Group](https://www.cgmi.uni-konstanz.de/) at the University of Konstanz. Additionally, I am a guest researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
 
-Additionally, I am involved in science outreach activities and mental helath invitives at Uni Konstanz and MPI-AB. I have given talks at different public events mainly about [ICARUS] (https://www.icarus.mpg.de/en) project. You can find more information about my Outreach activities [Here](/about/page).  
+Additionally, I am involved in science outreach activities and mental helath invitives at Uni Konstanz and MPI-AB. I have given talks at different public events mainly about [ICARUS](https://www.icarus.mpg.de/en) project. You can find more information about my Outreach activities [Here](/about/page).  
 
 ### Online presence 
 
