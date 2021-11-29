@@ -1,6 +1,5 @@
 ## Ambition
 Just want to be known as the guy who likes to take a nap below trees and look at the sky for hours with no particular aim.
-![me](/images/Hemal.jpg)
 
 ### Interests 
 Nature and Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketching.
