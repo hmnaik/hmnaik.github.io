@@ -13,13 +13,11 @@ I am using my tech expertise to study wildlife. Currently, I am a post-doctoral 
 
 ### Science outreach : Art and Science
 I am trying to learn the art of story telling and explore the role of art in science communication. I am working with several art institutes in Germany.
-Latest projects involve [Merz Akademie](https://www.merz-akademie.de/en/) and [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/)
-
-[My SciArt work](/about/outreach)
+My latest projects involve [Merz Akademie](https://www.merz-akademie.de/en/) and [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/)
+[more](/about/outreach)
 
 ### Social media
-[Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber) 
-[Instagram](https://www.instagram.com/walking_naik/?hl=en [Medium](https://medium.com/@hemalnaik)  
+[Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber) [Instagram](https://www.instagram.com/walking_naik/?hl=en [Medium](https://medium.com/@hemalnaik)  
 
 ### CV
 [download](/cv/Resume.pdf).
