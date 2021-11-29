@@ -18,11 +18,12 @@ I am trying to learn the art of story telling and explore the role of art in sci
 [My projects](/about/outreach)
 
 ### CV & Publications 
-[download](/cv/Resume.pdf).
+[download](/cv/Resume.pdf) 
+Publication record: [Google Scholar](https://scholar.google.de/citations?user=iWIresYAAAAJ&hl=en)
 
 ### Email: hnaik[at]ab[dot]mpg[dot]de
 
 ### Social media
-[Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber)  [Instagram](https://www.instagram.com/walking_naik/?hl=en)  [Medium](https://medium.com/@hemalnaik) 
+[Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber)  [Instagram](https://www.instagram.com/walking_naik/?hl=en)  [Medium](https://medium.com/@hemalnaik)
 
 
