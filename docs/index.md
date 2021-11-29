@@ -2,16 +2,10 @@
 Just want to be known as the guy who likes to take a nap below trees and look at the sky for hours with no particular aim.
 
 ### Interests 
-Nature and Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketching.
+Nature, Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketching.
 
 ### Professional life  
 I am an engineer and a scientist. I am using my tech expertise to study wildlife. Currently, I am a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). I am working on project MELA (Mating Ecology of Leking Antelopes) which is support by [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/). 
-
-Previous groups: 
-- Post-Doct [Visual Computing Group - University of Konstanz](https://www.cgmi.uni-konstanz.de/)
-- PhD [Computer Aided Medical Procedures & Augmented Reality - TU Munich](https://www.in.tum.de/campar/start/)
-- PhD [Department of Collective Behavior - Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/couzin)
-- PhD + Masters [Extend3D GmbH](https://www.extend3d.com/en/).
 
 ### Personal life : Art and Nature
 I am trying to learn the art of story telling and explore role of art in science communication. 
