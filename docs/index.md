@@ -1,9 +1,9 @@
 ## I want to be known as
 the guy who likes to take a nap below trees and look at the sky with no particular aim.
-[me][/images/Hemal.jpg]
+![me][/images/Hemal.jpg]
 
 ### I am interested in
-Animals, Birdwatching, Computer Vision, Virtual Reality,  
+Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketching  
 
 ### I am officially 
 an engineer and a scientist by profession. Personally, I am trying to learn the art of story telling and a science communication. My favorite mode of transportation is walking. I am always looking to have some free time and go for birding. If I can not find birds I see insects, trees and whatever else that is around. My love for Himalayas is something I have not measured but there is a lingering hope that I would do a project there and live there for a while. 
@@ -22,5 +22,4 @@ I use [Twitter](https://twitter.com/hmnaik) to promote science and cool stuff fr
 
 You can download details of my professional and academic experience [Here](/cv/Resume.pdf).
 
-### Contact
-Email me at hnaik[at]ab[dot]mpg[dot]de
+### Email: hnaik[at]ab[dot]mpg[dot]de
