@@ -1,8 +1,9 @@
-## Ambition
-Just want to be known as the guy who likes to take a nap below trees and look at the sky for hours with no particular aim.
+## What I generally like to do? 
+I love to take sleeping below trees and stare at the sky for hours. 
 
-## News: 
-Taking part in mentorship program for [_Driving Human_](https://drivingthehuman.com/) event 10-11 December 2021. 
+## News
+- Mentorship program for [_Driving Human_](https://drivingthehuman.com/) event 10-11 December 2021.
+- Field trip  
 
 ### Interests 
 Nature, Animals, Birdwatching, Computer Vision, Virtual/Augmented Reality, Sketching.
