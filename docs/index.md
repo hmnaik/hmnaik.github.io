@@ -1,5 +1,5 @@
-## What I generally like to do? 
-I love to take sleeping below trees and stare at the sky for hours. 
+## Favorite activity 
+Sleeping below tree while staring at the sky. 
 
 ## News
 - Mentorship program for [_Driving Human_](https://drivingthehuman.com/) event 10-11 December 2021.
