@@ -5,7 +5,8 @@ Currently, I as a post-doctoral researcher at the [Max Planck Institute of Anima
 
 ## Current project
 Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/).
-[My projects](/about/outreach). 
+
+[Other projects](/about/outreach). 
 
 ## My interests
 I love taking naps in the outdoors, sleeping below a tree while staring at the sky is one of my favorite activity. 
