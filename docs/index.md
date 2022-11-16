@@ -1,5 +1,5 @@
 # About me  
-I am Hemal Naik. I am an Indian currently working and living in Germany. I am a scientist by profession. 
+I am Hemal Naik. Living and working in Germany. Scientist by profession. 
 I am working towards developing tech solutions to study wildlife. 
 Currently, I as a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
 
