@@ -10,7 +10,7 @@ Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societie
 I love taking naps in the outdoors, sleeping below a tree while staring at the sky is one of my favorite activity. 
 When time permits I like going out to spend time in nature and see plants, trees and birds. I am trying to learn how to become a good storyteller. 
 I think it would be awesome to combine my research work with a bit of storytelling to explore new idea of doing science outreach.  
-[Outreach projects](/about/outreach). 
+[Outreach projects](/docs/about/outreach). 
 
 ## Upcoming events   
 - Mentorship program for [_Driving Human_](https://drivingthehuman.com/) event 10-11 December 2021.
