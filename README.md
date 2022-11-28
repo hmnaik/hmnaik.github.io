@@ -26,3 +26,6 @@ Publication record: [Google Scholar](https://scholar.google.de/citations?user=iW
 [Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber)  [Instagram](https://www.instagram.com/walking_naik/?hl=en)  [Medium](https://medium.com/@hemalnaik)
 
 ### hnaik[at]ab[dot]mpg[dot]de
+
+#### [imprint](/docs/about/imprint) 
+#### [data protection](/docs/about/dataprotection) 
