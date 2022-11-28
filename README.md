@@ -4,10 +4,11 @@ I am Hemal Naik. I am an Indian citizen living and working in Germany since 2010
 ## Job profile
 I work as a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
 My primary work is to develop tech (computer vision - machine learning) solutions for studying wildlife. 
-I also collaborate and work with different art institutions for science outreach.
+I also collaborate and work with different art institutions for exploring alternative ways of communicating. 
 
-### Current project
+### Current projects
 Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/).
+As part of MELA, I am also an exchange [fellow](https://www.akademie-solitude.de/en/person/hemal-naik/) at [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/) under the [_FieldTrip_](https://www.akademie-solitude.de/de/news/cooperation-with-max-planck-institut/) initiative and I am currently developing my own art project around the theme of project MELA.
 
 ## Interests 
 I love to take naps below a tree while staring at the sky through the canopy.   
@@ -15,9 +16,10 @@ I go out to see plants, trees and birds for hours and hours. I play percussion i
 Love traving in general but I have special love for travelling within India. 
 These days I am trying become a good storyteller and explore my artistic side. 
 I am trying to combine different aspects of my life and this attempt brings me to explore the idea of combining science with art.  
-You can read more about my attempts on [side projects](/docs/about/outreach) page. 
+You can read more about my attempts on [side projects and art collaborations](/docs/about/outreach) page. 
 
-## Recent events
+## Recent and upcoming events
+- Finished my 6-week fellowship at Akademie Schloss Solitude.
 - Giving a talk at Oxford brookes university (9th Dec 2022) and Vision group at Oxford University (8th Dec 2022). 
 - Field trip for project MELA: Feb 2023 - April 2023
 
@@ -32,5 +34,4 @@ Scientific publications can be found on [Google Scholar](https://scholar.google.
 
 ### hnaik[at]ab[dot]mpg[dot]de
 
-#### [imprint](/docs/about/imprint) 
-#### [data protection](/docs/about/dataprotection) 
+#### [imprint](/docs/about/imprint) - [data protection](/docs/about/dataprotection) 
