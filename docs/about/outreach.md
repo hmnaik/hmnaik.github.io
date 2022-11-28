@@ -6,17 +6,15 @@ Since 2017, I am trying to find different ways to talk about science and wildlif
 
 This page has a small list of my activities in the direction of science outreach or science communication.
 
-## Talks 
-- Invidted talk at Akademie Darstellende Kunst (Dec 2020) 
-- Animalesque : 
-- "How can we know what animals know? and why do we care?" for BNHS [link](https://youtu.be/x5nwoIhj_zI). 
-- WII : 
-- Vets : 
-- "Stories from India: Animals, People, Science and Conservation" for MaxCine [link](https://youtu.be/UCaZJvag1hc). 
-
 ## Pop-science articles
 - "VR for animals by animals" for [Vigia megazine](https://vigia.tech/zeitschriften/virtuelle-realitaeten/). Originally published in German. 
-- Article on the idea of using satellites for migration studies for Aranyak megazine of Forest Dept. of Kerala. Originally published in Malayalam with some editorial changes. [English version](https://hemalnaik.medium.com/the-dawn-of-migration-science-823c7ecaa681).
+- Article on the idea of using satellites for migration studies for Aranyak megazine of Forest Dept. of Kerala. Originally published in Malayalam with some editorial changes. [English version](https://hemalnaik.medium.com/the-dawn-of-migration-science-823c7ecaa681). 
+
+## Movies and Video lectures 
+- [Magic in the Manipuri Sky](https://youtu.be/mxC8eEqUKZ0): A short documentation of efforts done in Manipur (India) for protection of Amur Falcons.  
+- "How can we know what animals know? and why do we care?" for BNHS [link](https://youtu.be/x5nwoIhj_zI). 
+- "Stories from India: Animals, People, Science and Conservation" for MaxCine [link](https://youtu.be/UCaZJvag1hc). 
+- "Animals in Virtual Environments" - Presented online at IEEEVR 2020 [link](https://youtu.be/K127jF7HH2E)
 
 ## SciArt Initiatives
 Since 2020, I have started working with independent artists and artistic institutions. 
@@ -29,11 +27,16 @@ I have started and setup two institutional collaborations to promote the idea of
 - [Rehsaping Nature](https://www.exc.uni-konstanz.de/collective-behaviour/engagement/outreach/reshaping-nature/) - Winter 2021. 
 [Another link](https://www.merz-akademie.de/en/projekte/re-shaping-nature/)
 ### Schloss Solitude 
-- [Magical Cohabitions](https://www.akademie-solitude.de/en/event/magical-cohabitations-live-online-event/) - 24-25 September 2020
-- Non-Post Human working group  
-
+- Active member of [Non-Post Human working group](https://www.akademie-solitude.de/en/themencluster/ecosystem-of-knowledge/) during 2020.
+- Workshop "New Awareness of Self and Nature" at [Magical Cohabitions](https://www.akademie-solitude.de/en/event/magical-cohabitations-live-online-event/) event organized in the summer of 2021. 
 
 ### Schloss Solitude - Max Planck Institute of Animal Behavior 
 - [_FieldTrip_](https://www.akademie-solitude.de/de/news/cooperation-with-max-planck-institut/)
+
+## Public talks 
+- Invidted talk at Akademie Darstellende Kunst (Dec 2020) 
+- Animalesque : Oct 2019 
+- Talk about WII in November 2018 
+- Vets of state of Baden Württemberg
 
 #### [imprint](/docs/about/imprint)
