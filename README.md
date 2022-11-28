@@ -1,26 +1,31 @@
 # About me  
-I am Hemal Naik. Living and working in Germany. Scientist by profession. 
-I am working towards developing tech solutions to study wildlife. 
-Currently, I as a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
+I am Hemal Naik. I am an Indian citizen living and working in Germany since 2010. Citizenship is mentioned because I am most regularly reminded about it by visa authorities of different countries that I visit for work or pleasure. 
 
-## Current project
+## Job profile
+I work as a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
+My primary work is to develop tech (computer vision - machine learning) solutions for studying wildlife. 
+I also collaborate and work with different art institutions for science outreach.
+
+### Current project
 Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/).
 
-## My interests
-I love taking naps in the outdoors, sleeping below a tree while staring at the sky is one of my favorite activity. 
-When time permits I like going out to spend time in nature and see plants, trees and birds. I am trying to learn how to become a good storyteller. 
-I think it would be awesome to combine my research work with a bit of storytelling to explore new idea of doing science outreach.  
-[Outreach projects](/docs/about/outreach). 
+## Interests 
+I love to take naps below a tree while staring at the sky through the canopy.   
+I go out to see plants, trees and birds for hours and hours. I play percussion instruments from time to time and can sketch for hours to kill time or to send post cards to friends. 
+Love traving in general but I have special love for travelling within India. 
+These days I am trying become a good storyteller and explore my artistic side. 
+I am trying to combine different aspects of my life and this attempt brings me to explore the idea of combining science with art.  
+You can read more about my attempts on [side projects](/docs/about/outreach) page. 
 
-## Upcoming events   
-- Mentorship program for [_Driving Human_](https://drivingthehuman.com/) event 10-11 December 2021.
-- Field trip for project MELA (Blackbuck National Park) : Feb 2022 - April 2022
+## Recent events
+- Giving a talk at Oxford brookes university (9th Dec 2022) and Vision group at Oxford University (8th Dec 2022). 
+- Field trip for project MELA: Feb 2023 - April 2023
 
-### CV & Publications 
-[download](/cv/Resume.pdf) 
-Publication record: [Google Scholar](https://scholar.google.de/citations?user=iWIresYAAAAJ&hl=en)
+### CV and publications
+You can [download](/cv/Resume.pdf) my CV using the link. 
+Scientific publications can be found on [Google Scholar](https://scholar.google.de/citations?user=iWIresYAAAAJ&hl=en).
 
-### Email: hnaik[at]ab[dot]mpg[dot]de
+### Email: hnaik[at]ab[dot]mpg[dot]de 
 
 ### Social media
 [Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber)  [Instagram](https://www.instagram.com/walking_naik/?hl=en)  [Medium](https://medium.com/@hemalnaik)
