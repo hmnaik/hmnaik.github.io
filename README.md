@@ -2,8 +2,8 @@
 I am Hemal Naik. I am an Indian citizen living and working in Germany since 2010. Citizenship is mentioned because I am most regularly reminded about it by visa authorities of different countries that I visit for work or pleasure. 
 
 ## Job profile
-I work as a post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
-My primary work is to develop tech (computer vision - machine learning) solutions for studying wildlife. 
+Post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
+I develop tech (computer vision - machine learning) solutions for studying wildlife. 
 I also collaborate and work with different art institutions for exploring alternative ways of communicating. 
 
 ### Current projects
