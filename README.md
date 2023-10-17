@@ -8,7 +8,7 @@ Post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https:
 I am working on CV (computer vision), ML (machine learning), AR (Augmenred reality), VR (Virtual Reality).
 Currently, I am working as technology developer for wildlife research (birds, mammals) in indoor and outdoor environments.  
 I use art to find alternative ways of communicating. 
-[Science projects](/docs/about/)
+[Science projects](/docs/about/science)
 ### Current projects
 Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/).
 As part of MELA, I am also an exchange [fellow](https://www.akademie-solitude.de/en/person/hemal-naik/) at [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/) under the [_FieldTrip_](https://www.akademie-solitude.de/de/news/cooperation-with-max-planck-institut/) initiative. 
@@ -23,7 +23,5 @@ Scientific publications can be found on [Google Scholar](https://scholar.google.
 
 ### Social media
 [Twitter](https://twitter.com/hmnaik) [YouTube](https://www.youtube.com/channel/UCFERZcpt3g0wQzTgtil1HIA?view_as=subscriber)  [Instagram](https://www.instagram.com/walking_naik/?hl=en)  [Medium](https://medium.com/@hemalnaik)
-
-### hnaik[at]ab[dot]mpg[dot]de
 
 #### [imprint](/docs/about/imprint) - [data protection](/docs/about/dataprotection) 
