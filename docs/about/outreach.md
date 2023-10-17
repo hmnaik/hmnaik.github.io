@@ -1,6 +1,5 @@
 ## Philosophy
-As a child, I was always fascinated with science and scientific discoveries. One of my school teachers inspired me to read pop-science articles about latest scientific discoveries. 
-Later on as I grew up I became an Engineer and then continued to my first job at L&T Ltd. Life went on the somehow and I started exploring my interest in new technologies like computer vision, augmented reality etc.
+As a child, I was always fascinated with science and scientific discoveries. One of my school teachers inspired me to read pop-science articles about latest scientific discoveries. Later on as I grew up I became an Engineer and then continued to my first job at L&T Ltd. Life went on the somehow and I started exploring my interest in new technologies like computer vision, augmented reality etc.
 Later, I started doing PhD in the same topic with industrial manufacturing. I learned a lot but then life took a turn (a long story) and I ended up joining the MPI-AB to finish my PhD. After joining MPI-AB I started engaging in science outreach activities. I also learned more about my job as a scientist and the importance of talking about science or sharing the scientific findings with people outside the science community. 
 Since 2017, I am trying to find different ways to talk about science and wildlife conservation through various channels. This quest has resulted in some interesting thoughts, ideas that I will share at some point [Here](/docs/about/underconstruction).     
 
