@@ -1,15 +1,16 @@
 # About me  
-I love to take naps below a tree while staring at the sky through the canopy.   
-I go out to see plants, trees and birds for hours and hours. I play percussion instruments from time to time and can sketch for hours to kill time or to send post cards to friends. I Love traving in general but I have special love for travelling within India. These days I am trying become a storyteller and explore my artistic side with audio-visual art projects. 
-I am trying to combine different aspects of my life and this attempt brings me to explore the idea of combining science with art.
+I love to take naps. Preferably below a tree with a good view of the sky through the canopy.   
+I can look at plants, trees and birds for hours and hours. If possible I play percussion instruments from time to time. Lately, I have started sketching to kill time and I like to send post cards to friends. I Love traving in general but I have special love for travelling in India. 
 
-## Work life
+## As scientist
 Post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
-I am working on CV (computer vision), ML (machine learning), AR (Augmenred reality), VR (Virtual Reality).
-Currently, I am working as technology developer for wildlife research (birds, mammals) in indoor and outdoor environments.  
+I am working on computer vision, machine learning, Augmenred reality(AR), Virtual Reality (VR).
+
+Mainly I desing tech solutions to study animals in indoor and outdoor environments.  
 I use art to find alternative ways of communicating. 
 [Science projects](/docs/about/science)
-### Current projects
+
+##Current projects
 Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/).
 As part of MELA, I am also an exchange [fellow](https://www.akademie-solitude.de/en/person/hemal-naik/) at [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/) under the [_FieldTrip_](https://www.akademie-solitude.de/de/news/cooperation-with-max-planck-institut/) initiative. 
 As fellow of schloss, I am currently developing my own art project "Encounters with the Wild".

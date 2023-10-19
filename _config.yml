@@ -3,3 +3,6 @@ title: Servus & Namastey
 title-heading : false
 description: A small page about my adventures in and out of science.  
 logo: /docs/images/Hemal.jpg
+nav: 
+  - title: Introduction
+    url: /docs/about/outreach
