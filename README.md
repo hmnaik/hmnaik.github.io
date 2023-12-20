@@ -5,16 +5,17 @@ I can look at plants, trees and birds for hours and hours. If possible I play pe
 ## As scientist
 Post-doctoral researcher at the [Max Planck Institute of Animal Behavior](https://www.ab.mpg.de/). 
 I am working on computer vision, machine learning, Augmenred reality(AR), Virtual Reality (VR).
+Mainly I desing tech solutions to study animals (birds,insects or mammals) in indoor and outdoor environments.  
 
-Mainly I desing tech solutions to study animals in indoor and outdoor environments.  
-I use art to find alternative ways of communicating. 
-[Science projects](/docs/about/science)
-
-##Current projects
 Project MELA (Mating Ecology of Leking Antelopes) at [Ecology of Animal Societies](https://www.ab.mpg.de/crofoot) and [Centre of Advanced Study of Collective Behavior](https://www.exc.uni-konstanz.de/collective-behaviour/).
+[All projects](/docs/about/science)
+
+## As artist
+
 As part of MELA, I am also an exchange [fellow](https://www.akademie-solitude.de/en/person/hemal-naik/) at [Akademie Schloss Solitude](https://www.akademie-solitude.de/en/) under the [_FieldTrip_](https://www.akademie-solitude.de/de/news/cooperation-with-max-planck-institut/) initiative. 
 As fellow of schloss, I am currently developing my own art project "Encounters with the Wild".
-[Side projects and art collaborations](/docs/about/outreach) page. 
+
+Please have a looked at [Outreach activities](/docs/about/outreach) page to see details of public engagaement. 
 
 ### CV and publications
 You can [download](/cv/Resume.pdf) my CV using the link. 
